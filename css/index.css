@@ -1,0 +1,17 @@
+body {font-family: 'Open Sans Condensed', sans-serif;}
+.navbar-default {
+    background-color: rgba(128, 46, 45, 1);
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+#santorini {width: 100%; padding: none;}
+.row {
+    margin-right: -15px;
+    margin-bottom: 15px;
+    margin-left: -15px;
+}
