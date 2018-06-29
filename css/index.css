@@ -1,7 +1,10 @@
-body {font-family: 'Open Sans Condensed', sans-serif;}
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:2em;
+}
 .navbar-default {
-    background-color: rgba(128, 46, 45, 1);
-    border-color: #e7e7e7;
+    background-color: rgba(60, 118, 61, 1);
+    border-color: white;
 }
 .navbar-default .navbar-brand {
     color: white;
@@ -9,9 +12,7 @@ body {font-family: 'Open Sans Condensed', sans-serif;}
 .navbar-default .navbar-nav > li > a {
     color: white;
 }
-#santorini {width: 100%; padding: none;}
-.row {
-    margin-right: -15px;
-    margin-bottom: 15px;
-    margin-left: -15px;
-}
+.one {list-style: none;}
+h1 {text-decoration: underline;}
+.me {width: 180px;}
+.fab falinkedin {color: blue;}
